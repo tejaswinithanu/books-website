@@ -1,0 +1,33 @@
+.list-item {
+  list-style-type: none;
+  padding-left: 0;
+  margin-left: 0;
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 15px;
+}
+
+.img {
+  width: 200px;
+  height: 250px;
+}
+
+.title {
+  color: #e1e3e6;
+  font-size: 20px;
+}
+
+.info-bg {
+  margin-left: 23px;
+}
+
+.author {
+  color: white;
+  font-size: 16px;
+  font-family: 'Lucida Handwriting';
+}
+
+.small-text {
+  color: #8d8e8f;
+  font-size: 15px;
+}

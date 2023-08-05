@@ -1,0 +1,40 @@
+.bg {
+  background-color: black;
+  padding: 20px 10vw;
+}
+
+.header-bg {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.brand-logo {
+  color: white;
+  font-size: 40px;
+}
+
+.search-bar {
+  border: none;
+  background-color: transparent;
+  padding: 10px;
+  color: white;
+  width: 300px;
+  font-size: 15px;
+  outline: none;
+}
+
+.search-icon {
+  background-color: transparent;
+  color: white;
+  border: none;
+}
+
+.search-bg {
+  border: 1px solid white;
+}
+
+.list-bg {
+  border: 1px solid #939596;
+}
